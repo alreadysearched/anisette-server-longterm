@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "longterm-server",
+            "address": "https://www.breezewave.space:6969"
+        }
+    ]
+}
